@@ -1,4 +1,4 @@
-FROM Gautamkumarg/Bard:latest
+FROM gautamkumarg/Bard:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
